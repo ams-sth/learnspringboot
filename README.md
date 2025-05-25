@@ -1,5 +1,3 @@
-# **Spring Boot Learning Roadmap**
-
 ## **What is Spring Boot?**
 
 **Spring Boot** is an open-source framework built on top of the Spring Framework. It simplifies the process of building production-ready, stand-alone **Spring-based applications** by eliminating much of the boilerplate configuration.
